@@ -1,0 +1,8 @@
+{
+  "name": "Dra. Sandra Milena Torres G. | Odontología Integral y Estética",
+  "description": "Sitio web oficial de la Dra. Sandra Milena Torres Gómez, odontóloga experta en diseño de sonrisa, limpieza profunda, rehabilitación oral e implantes dentales en Kennedy, Bogotá.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
